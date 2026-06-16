@@ -63,7 +63,6 @@ Currently pursuing: **Network+** → **AWS SAA-C03** → **CKA**
 
 ![Ebuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEbuka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devEbuka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devEbuka&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
 
